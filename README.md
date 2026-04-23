@@ -11,7 +11,7 @@ Tools & Technologies: Nmap, Tcpdump, Netstat, Python
 
 
 Done By:
-G SHAILAJA 2420030447
+G SHAILAJA 2420030447 AND 
 S LAHARI KRISHNA 2420090055
 
 
@@ -36,5 +36,4 @@ Analysis Parameters
 Result
 Based on the analysis, the network risk level is classified as LOW, MEDIUM, or HIGH depending on the input parameters.
 
-Based on the analysis, the network risk level is classified as LOW, MEDIUM, or HIGH depending on the input parameters.
 
