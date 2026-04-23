@@ -1,0 +1,16 @@
+Abstract:
+Public Wi-Fi Security Risk Analyzer
+
+
+G.SHAILAJA 2420030447 
+S.LAHARI 2420090055
+
+FACULTY – CHANDUSHA K
+
+Public Wi-Fi networks, commonly available in cafés, airports, campuses, and other public spaces, offer convenient internet access but often lack adequate security controls. In such environments, users connected to the same network may be exposed to threats including packet sniffing, port scanning, service enumeration, and Man-in-the-Middle (MITM) attacks. As a result, sensitive information such as login credentials, browsing data, and personal communications can be intercepted without the user’s knowledge.
+
+This project, “Public Wi-Fi Security Risk Analyzer using Kali Linux and Python,” aims to study and demonstrate the security risks present in public Wi-Fi networks through controlled ethical testing. Kali Linux is used as the primary analysis platform, employing tools such as Nmap, Wireshark, Airodump-ng, and Ettercap to identify active hosts, detect open ports and services, monitor network traffic, and illustrate how unencrypted communication can be observed within a shared network.
+
+To complement these tools, a Python-based script is developed to automate basic network scanning and risk identification. The script gathers information about live devices, analyzes open ports, and presents potential security concerns in a simplified, readable format. This integration of scripting with security tools demonstrates how network information can be systematically collected and assessed in a public Wi-Fi scenario.
+
+The findings of this project highlight the inherent vulnerabilities of unsecured wireless networks and emphasize the need for user awareness and protective measures such as HTTPS usage, VPNs, firewalls, and cautious online behavior. This work demonstrates how ethical hacking methodologies and Python automation can be applied to analyze real-world network threats and promote safer internet practices.
